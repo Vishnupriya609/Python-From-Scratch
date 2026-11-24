@@ -156,5 +156,5 @@ Output: `Welcome To Python Programming`
 | `title()`      | First letter of each word uppercase |
 
 
-Day 1 – Practical Project: Welcome Message Generator
+Day 1 – Practical Project: [Welcome Message Generator](https://github.com/Vishnupriya609/Python-From-Scratch/tree/main/Day%201/Day1-Welcome_Message_Generator)
 - Create a Python program that asks the user for their details and generates a personalized welcome message.
