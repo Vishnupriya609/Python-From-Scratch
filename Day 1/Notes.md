@@ -157,4 +157,4 @@ Output: `Welcome To Python Programming`
 
 
 Day 1 – Practical Project: Welcome Message Generator
-Objective: Create a Python program that asks the user for their details and generates a personalized welcome message.
+- Create a Python program that asks the user for their details and generates a personalized welcome message.
