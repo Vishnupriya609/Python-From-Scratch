@@ -1,4 +1,4 @@
-# ** Day 1 – Python Basics **
+# **Day 1 – Python Basics**
 
 **Today's goal:** Learn how to display output, work with strings, take user input, and change letter cases.
 
