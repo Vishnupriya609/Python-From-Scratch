@@ -323,9 +323,7 @@ print(f"You are approximately {age} years old.")
 
 Note: This calculates approximate age. Exact age 
 
-## 6. Practical Project - Personalized Greeting Program
-
-### Project Objective
+### 6. Practical Project - [Personalized Greeting Program](https://github.com/Vishnupriya609/Python-From-Scratch/tree/main/Day%202/Day2-Personalize_Greeting)
 
 Create a Python program that collects user information and generates a personalized greeting.
 
