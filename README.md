@@ -6,3 +6,4 @@ This repository documents my progress in learning Python from beginner to advanc
 
 
 - Day 1 : [Python Basics](https://github.com/Vishnupriya609/Python-From-Scratch/blob/main/Day%201/Notes.md)
+- Day 2 : [Python Variables, Type Conversion , String formatting](https://github.com/Vishnupriya609/Python-From-Scratch/blob/main/Day%202/Notes.md)
